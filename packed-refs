@@ -1,0 +1,384 @@
+# pack-refs with: peeled fully-peeled sorted 
+24918a9b20c771984f41f90c3352c3ebee8b5e6f refs/remotes/origin/devel/analyzer
+a926878ddbd5a98b272c22171ce58663fc04c3e0 refs/remotes/origin/devel/autopar_devel
+e2da2f7205e03a57f5f0a6b75974bcab39fe6b9e refs/remotes/origin/devel/autopar_europar_2021
+31ff5e249df46ff122b115c86af04022307fafa4 refs/remotes/origin/devel/bypass-asm
+df3709d167ccb86775b7aebb12bc6865fc814a9d refs/remotes/origin/devel/c++-contracts
+3e5f7ca352c26a222bb588741b7c700a3052a372 refs/remotes/origin/devel/c++-coroutines
+65165eb3f833a3f0415fd76913bf85722a13fbe0 refs/remotes/origin/devel/c++-modules
+23b92c478947a904606dd511a5488fa68514b3c4 refs/remotes/origin/devel/c++-name-lookup
+9fc240973e79d797bd5a5bdcbc8d0affa3e5a08a refs/remotes/origin/devel/coarray_native
+aa1e672b5d99102b03eb5fb9c51609c45f62bff7 refs/remotes/origin/devel/gccgo
+6857bd99f3922f57dd94aaf675c0cb5f0dcfd24b refs/remotes/origin/devel/gfortran-caf
+8ca74c42ca51abb08f66d1c6f26fcf00d2b829fc refs/remotes/origin/devel/gimple-linterchange
+f2ee7edfe370c37fcf79f26154e95519b1aea3fa refs/remotes/origin/devel/gomp-5_0-branch
+e59916214d3d02cf81ba07116bfc240dc8dc4f59 refs/remotes/origin/devel/icpp2021
+3a8c69ecd95f708f5d489d92ff12dfbe2a93b00b refs/remotes/origin/devel/ira-select
+2b1b2242710e03ac70ed3a0da829148877cd9422 refs/remotes/origin/devel/ix86/evex512
+4953a04ee6e956898c3330e70b6043db2f55aeac refs/remotes/origin/devel/jlaw/crc
+271072ca259dd285e7723d9bf6da7295e4090dfa refs/remotes/origin/devel/loop-unswitch-support-switches
+d02e931dcae4721928b44324a70a0ed5edd8507e refs/remotes/origin/devel/lto-offload
+7f67199f509ccef894f65f968468c8f13f2bafec refs/remotes/origin/devel/m2link
+4f27bc50e66ab3ff08f3ebc090f45610ee8203f1 refs/remotes/origin/devel/modula-2
+76f10e938b79e87c2890e16ffcc350af0ec5e1b9 refs/remotes/origin/devel/mold-lto-plugin
+7dc4d63c64118ebc346dd939ab02ff9f9f915f9e refs/remotes/origin/devel/mold-lto-plugin-v2
+6b88ea4bb7a2539cbe7a9a53e872090562fe8ccd refs/remotes/origin/devel/omp/gcc-10
+cdddaf7fdffa444b108ad1e6c4cea25073f0db4e refs/remotes/origin/devel/omp/gcc-11
+5f881613fa9128edae5bbfa4e19f9752809e4bd7 refs/remotes/origin/devel/omp/gcc-12
+2d20f690921a82ee6db0c2fbac7dd5f13d4a0882 refs/remotes/origin/devel/omp/gcc-13
+775f1686a3df68bd20370f1fabc6273883e2c5d2 refs/remotes/origin/devel/omp/gcc-9
+bf7b85b96f3e0c47242a2993c1172a0317aebab5 refs/remotes/origin/devel/omp/ompd
+02229c0ce3f2dc04d5e79d0967b8a6545cc284a6 refs/remotes/origin/devel/power-ieee128
+15c5f3f502ed01d2ba361e466a520b252979a75f refs/remotes/origin/devel/range-gen3
+f69ab586f69b0a3a73af12bdd71e18f81bc5ba4a refs/remotes/origin/devel/ranger
+9a8b3eaeddb2d307a6b3f5cd2c85922f4dc6add4 refs/remotes/origin/devel/rust/master
+4b13c73bba935443be3207abf26f7ba05f79badc refs/remotes/origin/devel/sphinx
+d0c29df94c513edb2ad7bae0c6d7a7f58455721e refs/remotes/origin/devel/ssa-range
+cfa26521266eba7c7574a09139c9353824990ca2 refs/remotes/origin/devel/unified-autovect
+bb04a11418f54c4c062802d491ff2c3720b7313e refs/remotes/origin/master
+face34d820742147342de442fbbd6d017e972e6d refs/remotes/origin/releases/egcs-1.0
+39dd4ec5722b0ac7b2eba832f3e036d56b2cd967 refs/remotes/origin/releases/egcs-1.1
+d04fe5541c53cb16d1ca5c80da044b4c7633dbc6 refs/remotes/origin/releases/gcc-10
+289e41a3a7da91ca4305becf67f00f5f2cacb6d2 refs/remotes/origin/releases/gcc-11
+d6adcfce936dd349563f0c144ba32baee43b849c refs/remotes/origin/releases/gcc-12
+2012d1a6949b25a4656be95b35716bd423155a3d refs/remotes/origin/releases/gcc-13
+28971fe1a47e10822fa151d92d1e727f941dc4e8 refs/remotes/origin/releases/gcc-2.95
+884e7555f0051935bd757cdfd79fb17ef2efeb9e refs/remotes/origin/releases/gcc-2.95.2.1-branch
+e5e16ea3ff8844dfc2238dfdf88d877b77f62e96 refs/remotes/origin/releases/gcc-3.0
+941d360f26144ffeabc12997f24111cdc5812ffa refs/remotes/origin/releases/gcc-3.1
+e239e1bf32bd3ddccec4a068c571be0ab87e574c refs/remotes/origin/releases/gcc-3.2
+17c842c4a76ee176895ef1e6c9069d611e5db03e refs/remotes/origin/releases/gcc-3.3
+a2df430c5ac46e674fd6a8f20683089a7f4c93a0 refs/remotes/origin/releases/gcc-3.4
+4b10fd7d6890c592158f336833ad154c9a891b19 refs/remotes/origin/releases/gcc-4.0
+3124a818d29ac787e1af3a018963be09bc31c241 refs/remotes/origin/releases/gcc-4.1
+87bf6ca58e51cfda26606fdb700f7adb63239d9d refs/remotes/origin/releases/gcc-4.2
+6503c21eb9098470636326bae601a11ee4cc488e refs/remotes/origin/releases/gcc-4.3
+086e1860db96ba057c26cf7e897c7f4322c83a21 refs/remotes/origin/releases/gcc-4.4
+41eccc86828f6a2bf7decd1cf241219f5dee6ac2 refs/remotes/origin/releases/gcc-4.5
+66cc0b3cf5bcd0366200064192b544c9274144b3 refs/remotes/origin/releases/gcc-4.6
+4d1f511d7f2f312d25d8a343e5d23976fba5d03e refs/remotes/origin/releases/gcc-4.7
+2a62b047eca5859142f024c339cd2686635cf5b1 refs/remotes/origin/releases/gcc-4.8
+4f18db57daffc62a373e30d93c9552f2b94adf09 refs/remotes/origin/releases/gcc-4.9
+926d9947847a0683cf34de6fc231209747576088 refs/remotes/origin/releases/gcc-5
+39a300fd08a80963ce13bd1598f9062935751e0f refs/remotes/origin/releases/gcc-6
+b2d961e7342b5ba4e57adfa81cb189b738d10901 refs/remotes/origin/releases/gcc-7
+eafe83f2f20ef0c1e7703c361ba314b44574523c refs/remotes/origin/releases/gcc-8
+7a15b5060a83ea8282323d92043c6152e6a3e22d refs/remotes/origin/releases/gcc-9
+9b6315f5a321be442b1cc431527b6afea8372c2f refs/remotes/origin/releases/libgcj-2.95
+bb04a11418f54c4c062802d491ff2c3720b7313e refs/remotes/origin/trunk
+e2bc679bef023202b307ca431543490cc6d17e0e refs/tags/Thesis
+^24715cc85f97a2f25c577a20d2de8739ca63aa05
+3ae2d0c63ace08c941d033a461f2bce96e4a12ba refs/tags/basepoints/gcc-0
+^6f39d4ff6715973bbdf6510a69fccc46f9a746b9
+65f35f984aa5d010d0a8197876229fabd0fedd69 refs/tags/basepoints/gcc-10
+^68ec60c4a377b532ec2d265ea542107c36b1d15c
+50ee04838efc16f2e42e351c6fa6debd511bd839 refs/tags/basepoints/gcc-11
+^46eed414a332f7684a9d8f07c0f7e94b8cc2659e
+62b634738d2ebbeaae89c3cf9a013c91d28081df refs/tags/basepoints/gcc-12
+^0cc79337ad265aabccab63882a810f9dc509a9d0
+e9066f8bf266cbcaad8d5c287a0b9243e71c0c59 refs/tags/basepoints/gcc-13
+^091e10203846812c4e98b465ddfb36d12f146be8
+d84a69ed77d4aef71ce4d9983c207aa99742f947 refs/tags/basepoints/gcc-14
+^48f0f297774bbc38ae8cb8bf12212e124fe479ad
+2a02d94a2ab1f90437954509c69a35e531949b96 refs/tags/basepoints/gcc-5
+^89eb97de15f1618bd63b6138e8a5536b935861e8
+69d3a9d3c7ba0143d5dddf3727877b57727bb384 refs/tags/basepoints/gcc-6
+^1a46d358050cf6964df0d8ceaffafd0cc88539b2
+62ede8b0c1085295fa9015d2e32828122efbf068 refs/tags/basepoints/gcc-7
+^70f4fdeb67fe065041a52304bb20f6ce701b1cf7
+b1720ff48b6d5305f9281360e752ab2af3147154 refs/tags/basepoints/gcc-8
+^aa90195aedfa348284c6e4e8ce59dc1b734f1d71
+c6fe1e69ea6fa8e5e9a6acd4d89789a63be984a7 refs/tags/basepoints/gcc-9
+^3bedd3463137d0712b72d582836a0b14c74ef620
+636adb5aaa651d838829c7eec306205b14e8e6e4 refs/tags/embedded-9-2020-q2
+^13861a80750d118fbdca6006ab175903bacbb7ec
+33897d4061e94b27f023e1483a8d7b2def879c1d refs/tags/embedded-9-2020q2
+^13861a80750d118fbdca6006ab175903bacbb7ec
+0247c2d302fadeaefe32a4a06a05f22114aad4df refs/tags/misc/cutover-cvs2svn
+^9a1ba72e73637be605b46810e63f60710eaf3dfe
+eb638d8e7c846315789421cad7e8a92aac98a039 refs/tags/misc/cutover-egcs-0
+^50eb43cabc93050267d2357cd886910f1fac5b73
+d7fd3ab5edbe5a63854c3e5f4bca53d4eba0f7d1 refs/tags/misc/cutover-egcs-1
+^861bb6c1b0958236ad93717f98d347aa6152bd09
+f5b196de86fde51578354ff5f98be6d9c397c8fe refs/tags/misc/cutover-git
+^cff5a231480526aa73094a22fe8b2f39b63735a4
+fdc94ab9bd34dd557aa694d6d3cd0f9dd2b3a222 refs/tags/misc/first-auto-changelog
+^cfdff3eeb902958d3eefe60d5712d64e2367843f
+d7faf18a332a7b6a17af38fa3975bdd24b548df5 refs/tags/misc/first-auto-changelog-10
+^5aec2fd3e05ca925f17d1ba31af7406d6c75e7a8
+74ce371f32a71e879b4cfa0532c24edb1363570e refs/tags/misc/first-auto-changelog-8
+^341e59fef8d4b9c86f1c95abfe3ed60482293f23
+e932fa71ef9000602a00ada69b6947bf324230d8 refs/tags/misc/first-auto-changelog-9
+^c99418920caec4c8df8479cb2a11da8bd574dc5a
+3520370f09ccf2899fafd9fbdf421a73eb5e6e89 refs/tags/misc/first-egcs-checkin
+cdb130cb8a68d93ce2f9272122f3e40dc8343de4 refs/tags/misc/gccgo-go1_1_2
+^4364c7e1b92e80888b3b46c44bef0e1e9d25d1de
+ad5453181803dbd8dd5ce232233f48b17b27ba56 refs/tags/misc/gupc_5_2_0_release
+^ed14795f179313898fbb89377b83eb88d2e357bf
+9c193768f7e3f0d33ef29b117043cacd5fe74663 refs/tags/misc/last-fsf-checkin
+9d67cee02262346526bb25cbcf54750ebf134ecb refs/tags/misc/start
+debf36687671a4c09e5298c5746d0dff8d3e0288 refs/tags/prereleases/egcs-1.0.1-prerelease
+a2ce79121f07c16b5fbe27c11c4ffa1d4c364ecb refs/tags/prereleases/egcs-1.0.2-980309-prerelease
+91b8046434f3b98e0e919fccb0ce2f952278f441 refs/tags/prereleases/egcs-1.0.2-prerelease
+9a9ae6cb1ac5e1d7f184a8b2cfb9bd2f8b6350d3 refs/tags/prereleases/egcs-1.0.3-prerelease
+e897f25adf265fa07f8bac9943ff258386560228 refs/tags/prereleases/egcs-1.1-prerelease
+eb2da4b5d23bf2e345b66ca9121984b89ac19c22 refs/tags/prereleases/egcs-1.1.1-pre
+5108d207ce8a5d4529b88660be07006d67f1fe01 refs/tags/prereleases/egcs-1.1.1-prerelease
+1333979c68419ed7bc904aaad17a1612c4463207 refs/tags/prereleases/egcs-1.1.1-prerelease-2
+5310618c320fa364e125992ee1aeec2f408ae6cb refs/tags/prereleases/egcs-1.1.1-prerelease-3
+3a81931d583a6f85e84da0ca3ed0df90fca44a88 refs/tags/prereleases/egcs-1.1.2-prerelease-1
+e587201d734cf910acd0e75428d3c7054291727a refs/tags/prereleases/egcs-1.1.2-prerelease-2
+4bc956b8c588611038db2b85fbe1eb6108cf9185 refs/tags/prereleases/egcs-1.1.2-prerelease-3
+8553a575f44e0231995626f3f9fa6ddd6743d821 refs/tags/prereleases/gcc-2.8
+57450b401cf58ecb3c87a4ddef256eb848678637 refs/tags/prereleases/gcc-2.95-test
+cc6b76b3086cad497e6b0bab8089ddc98ddf7159 refs/tags/prereleases/gcc-2.95.3-test1
+ddbde06adfd3c0019bcde3852a30ebfc7054de54 refs/tags/prereleases/gcc-2.95.3-test2
+2db3e52c3980547ae032646d9b6c4aa9ddb2357f refs/tags/prereleases/gcc-2.95.3-test3
+078d5231d4e49508cfddf3cbcda2d0a0e513ac52 refs/tags/prereleases/gcc-2.95.3-test4
+bf7b508bcb8a860d7925355a3d503b1034be3d63 refs/tags/prereleases/gcc-2.95.3-test5
+28f7634eac5b7762a1e0cdc989a07e186f312df6 refs/tags/prereleases/gcc-4.2.3-rc1
+^6afafc932cdb5b6d9409a0c122b3721eb7cd05e0
+fd37b0822846ef8bf0bb80cb4ebdc7bac39f926a refs/tags/prereleases/gcc-4.2.4-rc1
+^08c9b67abb3492666cbf2f26bb7777f318d07c80
+574bab6829ce6dd243136a10adfc9e8fd0568773 refs/tags/prereleases/gcc-4.3.2-rc1
+^38c29cbea3de335f5d0af1e2175285ab4c73815b
+7d2e820168529c3ff02772ca7ac03048bd6cd3e9 refs/tags/prereleases/libgcj-0.1
+9c2927a6caa440be161e01ea3f5bd4d014a46485 refs/tags/prereleases/libstdc++-2.92
+7df95df0479aacd52f7677f237f4e1508fd69208 refs/tags/prereleases/libstdc++-3.0.95
+2abc329567dadada681839a9d560774e54e10990 refs/tags/prereleases/libstdc++-3.0.96
+2063d4721ce400b98470b4f104dd6c0d1ee8d76c refs/tags/prereleases/libstdc++-3.0.97
+843fbaf3fbd54683557ab022a0207c313f079365 refs/tags/release-12.2.mpacbti-bet1
+^11d19ae7b3aded18f52b1accfd4ec5051951495b
+a7ea33dd639d18ddbb28865c8ca5bae1732010dd refs/tags/release-12.2.mpacbti-rel1
+^96213951b754044a39e7fea975299184112734d1
+9cee915b8ef5882bfd45c88fdd367c74d6ddca0a refs/tags/releases/egcs-1.0.0
+cc9d9e83edb1b049ac66f445e16b64a2da3bf1a8 refs/tags/releases/egcs-1.0.1
+1a0bcb5a3a533edf1aa11b6af5915873ee07f601 refs/tags/releases/egcs-1.0.2
+c425a22d2566d521c0c5569295ad1a3ae22b89bc refs/tags/releases/egcs-1.0.3
+785f5579b5ea0e86c0bdb8b2d94e02da7933a6c6 refs/tags/releases/egcs-1.1.0
+a4da5591eebc055c8dd9d73a63d4207cf38a4058 refs/tags/releases/egcs-1.1.1
+e4bb6adc459e803f6c0f8df407889c6e30260dff refs/tags/releases/egcs-1.1.2
+36b87b99f6b907e465a4b9cfb263a3ee2c43d247 refs/tags/releases/g77-0.5.21
+a015f0328193666b8c8e79cbd4f2e0370ca76974 refs/tags/releases/g77-0.5.22
+63fa67847628e5f358e7e2e7edb8314f0ee31f30 refs/tags/releases/gcc-10.1.0
+^6e6e3f144a33ae504149dc992453b4f6dea12fdb
+c4c335fff828b0ec85c1d114a848fe36db39a56b refs/tags/releases/gcc-10.2.0
+^ee5c3db6c5b2c3332912fb4c9cfa2864569ebd9a
+cbc65819de22b083de33f9f030b0c8631de5afc7 refs/tags/releases/gcc-10.3.0
+^f00b5710a30f22efc3171c393e56aeb335c3cd39
+80c8c5b8f69bcd2dd168933fe6abfba2fc9ba67c refs/tags/releases/gcc-10.4.0
+^7ff47281ce4f3699185b06a3430968eac2a5b0c6
+3585d89e56b9581657e02bff18254f1c3712fd8f refs/tags/releases/gcc-10.5.0
+^d04fe5541c53cb16d1ca5c80da044b4c7633dbc6
+c2709ce156797100155122c7b93aedfd1fc5bf0f refs/tags/releases/gcc-11.1.0
+^50bc9185c2821350f0b785d6e23a6e9dcde58466
+01a9836c07053b3286b2259d6b628c7583413f55 refs/tags/releases/gcc-11.2.0
+^7ca388565af176bd4efd4f8db1e5e9e11e98ef45
+ea82351999883337d27483ffd25bb7d6ac54fdc4 refs/tags/releases/gcc-11.3.0
+^2d280e7eafc086e9df85f50ed1a6526d6a3a204d
+c3ad455f8dbc4f92c24a4987e158f22242b50379 refs/tags/releases/gcc-11.4.0
+^ff4bf326d03e750a8d4905ea49425fe7d15a04b8
+6f14b4e385d0b2221557faf40fb24eacf22ca7f8 refs/tags/releases/gcc-12.1.0
+^1ea978e3066ac565a1ec28a96a4d61eaf38e2726
+58051b1d9986afc5262c335a42e50b4730bc82b0 refs/tags/releases/gcc-12.2.0
+^2ee5e4300186a92ad73f1a1a64cb918dc76c8d67
+0c61aa720e62f1baf0bfd178e283afe65f72b4ac refs/tags/releases/gcc-12.3.0
+^8fc1a49c9312b05d925b7d21f1d2145d70818151
+2b98cc24d6af0432a74f6dad1c722ce21c1f7458 refs/tags/releases/gcc-13.1.0
+^cc035c5d8672f87dc8c2756d9f8367903aa72d93
+13fb0413b5cc8ae50b074f9d83dea2c801863783 refs/tags/releases/gcc-13.2.0
+^c891d8dc23e1a46ad9f3e757d09e57b500d40044
+3cdc859ae4050bc94a344dbf368aa9f04dcb0575 refs/tags/releases/gcc-2.8.0
+d0ec45ebce6df5e9f1c4f2db8ba1e97fd3e6f194 refs/tags/releases/gcc-2.8.1
+826f2618eb4bfb7099938fea692f7be169587263 refs/tags/releases/gcc-2.95.0
+6967b77de39c7ea7bc4bfdc39a43d88933d8fa3a refs/tags/releases/gcc-2.95.1
+17b916df3d859b72736d537f6c2a98b2d76decf8 refs/tags/releases/gcc-2.95.2
+0d890daee153a3615dcd6d180c53dd85fb064b94 refs/tags/releases/gcc-2.95.2.1
+7f236610e99c7a11fb18f056b6446b3c7c40979c refs/tags/releases/gcc-2.95.3
+b58080295efffd79bc0875cd425bb1d232c41ccf refs/tags/releases/gcc-3.0.0
+24e599861354d3ab526bb27cefb5234272e91508 refs/tags/releases/gcc-3.0.1
+e58e35ef7bd1ef380ee6aeb0b27751cb3066cdfd refs/tags/releases/gcc-3.0.2
+6359a3102a3370b8905937ebc4191c340ce70087 refs/tags/releases/gcc-3.0.3
+1535c835c44a810c7621019da069a37b040a76c6 refs/tags/releases/gcc-3.0.4
+64629404d8d56db4148e8dba734382a7cd0ca7a4 refs/tags/releases/gcc-3.1.0
+9e3adbb5340f6b07d2578d983a83218ddef544a2 refs/tags/releases/gcc-3.1.1
+3d9df6b3a2eb8d0b4a6424025758204a923a77e6 refs/tags/releases/gcc-3.2.0
+f1483affbff46bbe308ed562121355138310a707 refs/tags/releases/gcc-3.2.1
+5df2b9659ff4a75d9a459f060b8d622a411e9328 refs/tags/releases/gcc-3.2.2
+6982b11ee31e0ba269324be02275771194ac0ca0 refs/tags/releases/gcc-3.2.3
+c51557328584ce06a4f00240e87f042a7be2e91e refs/tags/releases/gcc-3.3.0
+89c33093fce932db969445f2c314d9b6c43f0a24 refs/tags/releases/gcc-3.3.1
+d443fde26f4c3774eea22bf9aeee81f3763b96f4 refs/tags/releases/gcc-3.3.2
+0cf7278b8ebcf154c6c9ee8977cdb1aafa599111 refs/tags/releases/gcc-3.3.3
+461e84806d0c2d6c5e1a273e17b5e20f9f94e4eb refs/tags/releases/gcc-3.3.4
+3366cc1d0b1d6de551065ce516e23ac5b8caa0ff refs/tags/releases/gcc-3.3.5
+29c148d63d668b7224aeece8f17b2de098feb3b2 refs/tags/releases/gcc-3.3.6
+b5c77e3b18ebef8731e0cc850f34ecfeae7c8e2e refs/tags/releases/gcc-3.4.0
+ee38c945c279685571303419df9f7421efbf62df refs/tags/releases/gcc-3.4.1
+7e6169afde15bbc2c2f6b75ecda481b3d066aa69 refs/tags/releases/gcc-3.4.2
+68a89c3d7c83837135240a33fc739700c0a685fc refs/tags/releases/gcc-3.4.3
+a1e2aac16e74ee89076b232194c7de84279a76f7 refs/tags/releases/gcc-3.4.4
+86af4666905073c3e6e160aae1ccb58717c905b3 refs/tags/releases/gcc-3.4.5
+^72fc8e33da5024df9970e52367e2e9de1c73b275
+2a405565c09bb5b1f958cfe998466f2655c91831 refs/tags/releases/gcc-3.4.6
+^6018a82534694970fb27a6846b15d370b392085f
+d89dab3130e93bf415da3719355e24ef4cd039ca refs/tags/releases/gcc-4.0.0
+25ab86387da37dfdf377a11bbe4a93fae8ca13b4 refs/tags/releases/gcc-4.0.1
+196067027a74e57aba9c5d78870d4971b1591fce refs/tags/releases/gcc-4.0.2
+b25a871c3b2d422c5d6c93954ad42c8471c11f3a refs/tags/releases/gcc-4.0.3
+^079859ee1f8501507bb8707b233e264228f862b4
+94b3e1b3f1d8e9d7017280f97d0072b4923562a6 refs/tags/releases/gcc-4.0.4
+^944765863eec87a9f37e297994fd2af960397138
+7f160cb7d0a115bf6539648601ff76c57bcaacaf refs/tags/releases/gcc-4.1.0
+^dcaac250fcc1a1ce514d97613e4547aded83033c
+cb9c771e2df3bc2b75f6ded5bf35296bc8951035 refs/tags/releases/gcc-4.1.1
+^5b6ef2fe7decd174ba3e3b5236d30eff1fdde864
+558a57f05a4545344169693664ce7b933249f77b refs/tags/releases/gcc-4.1.2
+^73236028fb88224c47cc87370b5b04786f9515f3
+67ff592bffea619579703f380f1ae838100b79bd refs/tags/releases/gcc-4.2.0
+^bfbec2aae3586d0aed03b24e2b5998b8a1a844a0
+24cc7717f4df2f6efef86db7a09db6a00231ea4a refs/tags/releases/gcc-4.2.1
+^0d5acec7b636b19aac6ed7517a1dea8fb9f6b0dc
+e67bf5c0d7153815689bef0155134ff02f922f5e refs/tags/releases/gcc-4.2.2
+^3655d3407c03de3ae3a4b756ccf34cc3e5d33570
+ce9ed412d1305593600599560f2f2165c49566cb refs/tags/releases/gcc-4.2.3
+^413cfcdb1b30fbad835df7cbac29193eb9d58f05
+538ec98d3156aa4ab4c9f6ec27022123f66bd5b4 refs/tags/releases/gcc-4.2.4
+^d199a6dfa1f74a32dbc0680fca46bfef54dfd776
+0a82cc09dfb72133e1f0fafbd8fae46aa0fe1b2f refs/tags/releases/gcc-4.3.0
+^3abe25d9230b52e13470da1a70e75bdf668e587d
+71806a1298aba5b9d24231b444bc5a4b408a01f4 refs/tags/releases/gcc-4.3.1
+^3e7719d5cfc5fe6adda8ace65af4f9f92e807483
+0dabb4867ae767bdf1f0162f3f586c70ad211e71 refs/tags/releases/gcc-4.3.2
+^00a1cd48aab482f9387e0d2ff4e5df3c0e4ec395
+5aaf09a20078fb0a30024a70ad797887e052eb2b refs/tags/releases/gcc-4.3.3
+9c5cf239ed14aae870edc3340ca4bf7a89042e9e refs/tags/releases/gcc-4.3.4
+^998d4c26540628f90b88db03d5a36a0862b23452
+02443a6d517a532bb7b039433104dbd0145f4661 refs/tags/releases/gcc-4.3.5
+^ec031872b213f39e5e82019408c79cf6cca010d1
+6b15b8c613da9fb080f3efd12818ac064ccb168f refs/tags/releases/gcc-4.3.6
+^6503c21eb9098470636326bae601a11ee4cc488e
+85ccdce7c4b24c883cda079650e0ec9eccbce9b2 refs/tags/releases/gcc-4.4.0
+^b7fc996728085c0591ea7c5d0e1c84a8f6a29bd8
+c38f18b328d405ca26470a39b04d6c2b6846c223 refs/tags/releases/gcc-4.4.1
+^e9015981781d5bd5c8539de61b8344e19dc57db6
+decb04aed138a8aa466b50d90d9612c9c34a14e7 refs/tags/releases/gcc-4.4.2
+^31ff3ca1635322f5913027bbd3bcb6fe7f2545bd
+86a662fd1b9dbd78706076a1e69d6a2414d28041 refs/tags/releases/gcc-4.4.3
+^cc084f96ff83733bfb363ac93951a1d433ade639
+9a59f72d0530fdbbb9f82aafd969e8274acbf981 refs/tags/releases/gcc-4.4.4
+^d26749d6abe4fa5505267caf523d106e1b880ea0
+8f89d50a50d2c13d3f75cdbe90890fb3e7010dc0 refs/tags/releases/gcc-4.4.5
+^7b36b7493f4b93e121b920e869e483f6d6f58400
+b7c26deeb2c70492ce250620858da52903ea89f4 refs/tags/releases/gcc-4.4.6
+^e0f8c5fefc8f7c8da646c131141c020d6c03a6a4
+28b1a2d2141d80f77872cbc4e4d9849b9b4519e6 refs/tags/releases/gcc-4.4.7
+^086e1860db96ba057c26cf7e897c7f4322c83a21
+d5fe229200fe1353c68af65dc507803897cf40f3 refs/tags/releases/gcc-4.5.0
+^2f77df704ff54372859661815055b84056a75e41
+cf854c1fcc76fcf88363948442e82b0ff921f2ad refs/tags/releases/gcc-4.5.1
+^88c1e55bd1f3e94e892aba390adf21a4ec5a2686
+985011f46545b5210b4b66d269c19e6978fdc88a refs/tags/releases/gcc-4.5.2
+^ef132e31f53f6d58a36ed7e1bdfd66bed70f7455
+feebeb3a079138425b160a2324dd6bc9a668acad refs/tags/releases/gcc-4.5.3
+^ffd3d5cd62c1808a3705e05b697220f273e49d0b
+ae18a7978feb6a2b4e2e68be6cd7d289caabcde8 refs/tags/releases/gcc-4.5.4
+^41eccc86828f6a2bf7decd1cf241219f5dee6ac2
+5ea801da0f5be2629bd7842b794412ffdad28571 refs/tags/releases/gcc-4.6.0
+^7a3af1a36b1965ae3d60e1f397a0d3ca17619d43
+74757be33845d3d2cc88766572a3d4c87d92a4b6 refs/tags/releases/gcc-4.6.1
+^64ed8de2276b1188e71c261fc79f3da50064201b
+78e7f3ad6f47f9905dce2e7e9c7d65c4aee07eb8 refs/tags/releases/gcc-4.6.2
+^e563bfac09b88a85286f87570dbfb453de5d107a
+3dfee99536b648402013c0b167f2c2899647ba66 refs/tags/releases/gcc-4.6.3
+^a358101ed152e9121618b488f88abe56911f3bac
+f7b7c063d839cadd0190775e69aae1e22a77db40 refs/tags/releases/gcc-4.6.4
+^66cc0b3cf5bcd0366200064192b544c9274144b3
+7b660b6363e2c86420b50e5328b43c17ecdb3ee3 refs/tags/releases/gcc-4.7.0
+^ae02e369d7a25c78527e89ca132ec1909902631d
+f1c2ee20e890957bca051568bf7f92049de1cf2c refs/tags/releases/gcc-4.7.1
+^edc56cde5124be76dd6ae3baff9eeb1fb61a1c41
+4cf808dbdb27c7912251919213189832d9d9b970 refs/tags/releases/gcc-4.7.2
+^b058453f82a5dab2304c3ddf1ce646eaa748a475
+82434f4b6bd58811f12bbcd1fd1ab31b174a6c91 refs/tags/releases/gcc-4.7.3
+^911595bf2d485c0d1e067d9a94a867d9b8281502
+2a6cef938e1a256bf9e50043b448249b91936bb7 refs/tags/releases/gcc-4.7.4
+^4d1f511d7f2f312d25d8a343e5d23976fba5d03e
+15714406aa4eb72bba55411840c4bb5280bcde69 refs/tags/releases/gcc-4.8.0
+^372a443092ee1656c6d866a16e6da6df32b1f71d
+11e62547a6d44df6886fe14064f8a27b2b009370 refs/tags/releases/gcc-4.8.1
+^6c53ef36e5bfe222e9786cd0b2afe90784a8a43d
+5d31722e2b918bd885fc93c1d7bc583022d60024 refs/tags/releases/gcc-4.8.2
+^3cf2083d636bab3e3a6e91e8b0a0ca1244dff722
+5bd7be8b0edf739744f0f645107ed9edb8dc7c25 refs/tags/releases/gcc-4.8.3
+^b70261df79330539a127c5bee7b4bf61cf029dd5
+ffba9671fdbf5fafb2ecaa2001652a98d981c9b5 refs/tags/releases/gcc-4.8.4
+^5ab2fe5755fdcbca49bb1c0dedb9d77cb26a13b0
+3d3bae7307119b9ba9064d044dbd7b70ae4b4830 refs/tags/releases/gcc-4.8.5
+^2da13f5a051c8a28a85311fea990355b4797c179
+4b0b8d705ea3ac7716bac63bb6320b524403c24c refs/tags/releases/gcc-4.9.0
+^ade89f291493b5e697047441c1193e5fc8278d3e
+4c98d0a9974065987ca0b18832bff0a89765eca7 refs/tags/releases/gcc-4.9.1
+^fc567ceb717bbcfc3ae0a02a193bcb34d95362ee
+ef50b15289afb6c4e9f81e7c3411190397ed735e refs/tags/releases/gcc-4.9.2
+^c8be0366b55cdb3233abcf79abe2c5ddc6f82cb9
+3ddf886a436b27266c57c5894a4a2f09edc30872 refs/tags/releases/gcc-4.9.3
+^52d80075bc3cc4270756284258400a116528ea7c
+c0e70a8a226414e1466cca0c745a66f642f4652c refs/tags/releases/gcc-4.9.4
+^4f18db57daffc62a373e30d93c9552f2b94adf09
+506b984256ea79fb9e7ec3705766b86789edb0e2 refs/tags/releases/gcc-5.1.0
+^ea29f0882c0cb710b0444744eaf368cf0143d7a0
+88d2b8d2d025c6c880e20c3bb55fa5010828c3e5 refs/tags/releases/gcc-5.2.0
+^0c1af5b6fde830146e5003b018ebabd2095533f4
+22a63890cb96f925294e90a7a9c70daa8759f3e3 refs/tags/releases/gcc-5.3.0
+^7a5558ee1c57939c34d0d9a337b26533c94a75e2
+a963946783ba84c8988012d2af90a7294b3c898b refs/tags/releases/gcc-5.4.0
+^c8898526d699174304c71ad2c2f0805bf7e27d93
+450cab279b8da9cf8f24398a15e11d08868d94f1 refs/tags/releases/gcc-5.5.0
+^926d9947847a0683cf34de6fc231209747576088
+1f4bb23f69ed90e301184db9e6d774474e88eac7 refs/tags/releases/gcc-6.1.0
+^a9425683787eeba7b9a4bb6c36588885160ab1f1
+20477ef1507c20bf3be124fd2e70f7f5f8b1e8c3 refs/tags/releases/gcc-6.2.0
+^4cf01c09fe137b7a70b9879ca396823615962eb3
+b20f2628ab37d14befa6c85877ba9f636c2150d1 refs/tags/releases/gcc-6.3.0
+^91c632c88994dca583bcd94e39cd3eba1506ecfe
+4afcae23c482f81369eea0d9637e6580925939fc refs/tags/releases/gcc-6.4.0
+^abaef5489e27672c45aa05f41ea7ed52f3fa2748
+e208c4055ceb32bf05f261a9c61855f5d3acdb19 refs/tags/releases/gcc-6.5.0
+^e31ae982c446804d1b259554203401392b078364
+d8e26463fd82396f44178f27f585150b01912da8 refs/tags/releases/gcc-7.1.0
+^303f81ad7e9f278d5ea5a8bd4193ed9da76bc251
+df1c197c73b85d5423c7afdf8088b9e3bbbd921f refs/tags/releases/gcc-7.2.0
+^586a0829dc38626ca27b79e5dd689fae32fc8ca8
+40b0dfe18728cdf3c2072ff0469b87a074450349 refs/tags/releases/gcc-7.3.0
+^6184085fc664265dc78fd1ad4204c0cbef202628
+70425dee3e085d7fb85a827cc5e457c4f7177908 refs/tags/releases/gcc-7.4.0
+^adafdb1e7212d53a0ff4c58f0f42dc96200affbb
+98eedbcfe626b96bc9de6a34caef031380335769 refs/tags/releases/gcc-7.5.0
+^b2d961e7342b5ba4e57adfa81cb189b738d10901
+786dfb985a6ef524f054880a2ad7a3a18f171c22 refs/tags/releases/gcc-8.1.0
+^406c2abec3f998e9064919b22db62f38a7c0e7b9
+fb6f1057476eea617d3c199f49900a643184598c refs/tags/releases/gcc-8.2.0
+^ddeb81e76461fc0075542d436dc962f3cf6fac92
+0886a50acf145091da61445ac125d71f29e1f7a7 refs/tags/releases/gcc-8.3.0
+^4c44b708f11eec6fc02456e8577708d01ca92327
+175c7bfa7bf49f771ef6356d03daa01356e74a14 refs/tags/releases/gcc-8.4.0
+^8cd3bffead2ed1d1998c190865694f920fbc93ab
+b4a0799d5b1bd8cba43b1d18ffe13e4327377d46 refs/tags/releases/gcc-8.5.0
+^eafe83f2f20ef0c1e7703c361ba314b44574523c
+e040649a7f8f67816477b56131f0988391b67c2b refs/tags/releases/gcc-9.1.0
+^c8913260b0756f977ab5e6e6392c51a83657fffc
+dbb1e12dda975b6ae260b105771d73684a5266f6 refs/tags/releases/gcc-9.2.0
+^a0c06cc27d2146b7d86758ffa236516c6143d62c
+2fed5ffd01d6ba0292ad851c690af56fc88abc1b refs/tags/releases/gcc-9.3.0
+^4212a6a3e44f870412d9025eeb323fd4f50a61da
+92c26afa8173889aabf7adf9894bb3b1aee3360f refs/tags/releases/gcc-9.4.0
+^13c83c4cc679ad5383ed57f359e53e8d518b7842
+bb72c7ca865ae3b54a113d4e7a736b93140e976c refs/tags/releases/gcc-9.5.0
+^7a15b5060a83ea8282323d92043c6152e6a3e22d
+a0970b51b5ad062a0285e7d02dd397222fe97d77 refs/tags/releases/libf2c-0.5.21
+d3ac81e45a08d9193daee60005dae0866a4ff0c2 refs/tags/releases/libf2c-0.5.22
+b804cd8c33950c3b533f9d59d0f5433105657897 refs/tags/releases/libgcj-2.95.0
+4df0557e2f4f0c4074e52c0c28561b509cfd0a0a refs/tags/releases/libgcj-2.95.1
+edeecae00551026c3b8a9666db5b69c8cd626bca refs/tags/vendors/ARM/release-12.3.rel1
+^0f54a73b998b72f7c8452a63730ec3b16fc47854
